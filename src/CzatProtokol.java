@@ -7,5 +7,6 @@ public interface CzatProtokol {
    public static final String LOGIN_COMMAND = "LOGIN:";
    public static final String LOGOUT_COMMAND = "LOGOUT:";
    public static final String NICK_COMMAND = "NICK:";
+   public static final String READY_COMMAND = "READY:";
 
 }
